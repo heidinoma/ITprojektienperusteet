@@ -17,6 +17,7 @@ Varauksen tekeminen ja muuttaminen tilan nettisivuilla
 Säätilan huomiointi ja integrointi varausjärjestelmään:
 -	mansikan kypsymisaikataulun huomioiminen
 -	mansikan pilaantumisen ennakointi
+-	vapaana olevan sadon määrän laskeminen
 -	poimintaolosuhteiden huomiointi?
 -	olemassa olevan datan hyödyntäminen laskelmissa
 -	uuden datan tallentaminen ja hyödyntäminen laskelmissa
