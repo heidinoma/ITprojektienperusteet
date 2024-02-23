@@ -7,20 +7,20 @@ Mansikan itsepoimintatilan varausjärjestelmän kehittäminen: poiminta-aikojen 
 
 Varauksen tekeminen ja muuttaminen tilan nettisivuilla
 -	poimintapäivän ja poimijamäärän valinta
-          -	valmiiksi poimittujen mansikoiden varaaminen
-          -	asiakkaan ennakkoarvio poimimastaan määrästä / suoraan ostettavan mansikan kg-määrä
-          -	varausmaksun mahdollistaminen?
-          -	varasijat ja jonottaminen vapautuville poiminta-ajoille
-          -	poiminta-astioiden varaaminen tarvittaessa
-          -	peruuttaminen erikseen määriteltyjen ehtojen mukaan
+-	valmiiksi poimittujen mansikoiden varaaminen
+-	asiakkaan ennakkoarvio poimimastaan määrästä / suoraan ostettavan mansikan kg-määrä
+-	varausmaksun mahdollistaminen?
+-	varasijat ja jonottaminen vapautuville poiminta-ajoille
+-	poiminta-astioiden varaaminen tarvittaessa
+-	peruuttaminen erikseen määriteltyjen ehtojen mukaan
 
-          Säätilan huomiointi ja integrointi varausjärjestelmään:
-          -	mansikan kypsymisaikataulun huomioiminen
-          -	mansikan pilaantumisen ennakointi
-          -	vapaana olevan sadon määrän laskeminen
-          -	poimintaolosuhteiden huomiointi?
-          -	olemassa olevan datan hyödyntäminen laskelmissa
-          -	uuden datan tallentaminen ja hyödyntäminen laskelmissa
+Säätilan huomiointi ja integrointi varausjärjestelmään:
+-	mansikan kypsymisaikataulun huomioiminen
+-	mansikan pilaantumisen ennakointi
+-	vapaana olevan sadon määrän laskeminen
+-	poimintaolosuhteiden huomiointi?
+-	olemassa olevan datan hyödyntäminen laskelmissa
+-	uuden datan tallentaminen ja hyödyntäminen laskelmissa
 
 
 3. (5 p.)Projektin luokitus ja sen perustelu, (tarkalla tasolla, eli valitaan "kauppanimi" kuten scrum, tässä harjoituksessa ei ole pakko valita scrummia, mutta perustelu Wysockin mukaan arvoidaan. Perusoletus: tekijöiksi saadaan kokeneita ihmisiä)
