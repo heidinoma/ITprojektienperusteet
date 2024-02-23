@@ -13,6 +13,7 @@ Varauksen tekeminen ja muuttaminen tilan nettisivuilla
 -	varasijat ja jonottaminen vapautuville poiminta-ajoille
 -	poiminta-astioiden varaaminen tarvittaessa
 -	peruuttaminen erikseen määriteltyjen ehtojen mukaan
+
 Säätilan huomiointi ja integrointi varausjärjestelmään:
 -	mansikan kypsymisaikataulun huomioiminen
 -	mansikan pilaantumisen ennakointi
