@@ -1,6 +1,6 @@
 1. (4 p.) Yksi Business/Project goal: Etsikää Wysockin kirjasta ohjetta, viittaus siihen vaaditaan. Muotoilkaa case-materiaalin avulla Project goal eli projektin tavoite oltava melko tarkalla tasolla. Eli liiketoimintaa tukeva projektin tavoite, "project goal" on se projektin lähtökohta.
 
-
+Mansikan itsepoimintatilan varausjärjestelmän kehittäminen: poiminta-aikojen varaaminen ja valmiiksi poimittujen mansikoiden noutoajankohdan varaaminen (joku aikamääre tähän, ts. aika projektin aloituksesta, ei varsinainen valmistumisajankohta?)
 
 2. (5 p.) Vaatimuksien kartoitus (RBS): Vähintään 5 kappaletta joista väh. 1 ylimmällä tasolla. voitte tehdä sisennettynä listana jonka juurena on ym. "Project goal"tai puuna (2-3 tasoa riittää). Miellekartta-muoto on myös ok. Priorisoikaa vaatimukset. (halutessanne voitte käyttää UML usecase kaavioita keskustelun tukena)
 
