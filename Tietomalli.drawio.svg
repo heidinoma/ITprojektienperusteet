@@ -1,0 +1,692 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="682px" height="1002px" viewBox="-0.5 -0.5 682 1002" content="&lt;mxfile&gt;&lt;diagram id=&quot;9qyuZTKyl7c9OBVXWCbr&quot; name=&quot;Page-1&quot;&gt;7V1Zc6M8Fv01fpwUIDY/xlnm60r3VCpJzfKoDkpMB4MLk+379cMmGyPJhkSWzRVdXd1BwTJwDkfonnvFBF0sPv6Z4uX8VxKQaGIZwccEXU4sy7X8/N+i4bNumKKq4TkNg6rJ3DTch3+TutGoW1/DgKy2dsySJMrC5XbjYxLH5DHbasNpmrxv7/aURNvfusTPhGm4f8QR2/qfMMjmVatveZv2v0j4PKffbLrT6jcLTHeuz2Q1x0Hy3mhCVxN0kSZJVv20+LggUXHt6HWpPnct+O36wFISZ10+MK0P7A1Hr/XJna9C/IJX9fFln/Sk80NdFj9m+HfRNFtlOM1qbJCRN+RXO8NhTNK8wSy3owgvV2G5e9UyD6PgJ/5MXjPaEd2aPYUfJLiroCn2zVH6mXdWbBadP+Wd39cHU/waR+FznP/8mJ9o8Y2zlKzyY/mJV1m9x1MYRRdJlKTl4SPzNzaJVffUaH8q/5TnkyYvpPEbw3Cvzq/pd1cnatr5dn3JSJqRD+F1N9do5ncBSRYkSz/zXeoPODX+9Q3g15vvGzaZtG3eZBL9HK4Z/LzueQNy/kONs4AkhsGAvhvtu4Kis3mShn8XGEc1Jk0GlNvv4SLCcc59HLSaZkl5rxstXOIkJgxTip2CNFk+4PSZZHXDMgnjrDxpZ5b/zc/gwjhzJk5+rBf5trnZzv8Wu6c5yHGOac7Iog+SE+OdFOSYZcmy7jQiT7T/tL7Ixc+/kyxLFjWNOoFd3UYs2jW8qCO8SAq6JoPu7Y0Q3/wsshBHd7lM4vg5qtAoVRNv0OBAxr2I6wvXvqLtuzfJr+dTVArfPAwCEne+qwyDf6Ublxb1vLJ1Z5tL0Ls3HOUaFOMsp/lrHKwYuNbH2RFBSyTKl0fGkapute9stcSPYfz8s/qk2wLaOQjQH+JbypEKfKfuZCOPRmXupMyGJGV2lSqz3R1dNfczCULa3zdlGWkgyw4D37/CRTi5sCbnBuffE5dq+WDDlmZ3lGal0jxVKs0eXGl2NZBmn4Hv9nVOojCOXxckTQBrsQBd2FrMRq1GLT6kFpuWSjGmYV6IYiy4zpDE2GQDUPeTCzQ5t+cvxf8zd5mssjBZJWFGACuzAGrQymyyc6SH12QHzKOb0I1Nu7mE6sjCUewEc5wZSbYT6tvoNPwEk50aAfITTA1mRyY7OypF+cflqY++8uwEEc6wR+NxniR5nrRPmZX6CRbceZKpwTzJYudJpZ9w4posH1TQGkzvyVGDVWmwUuPA6uHYD0yDqzMBrsGsJf9XzmEMV4RFqMIWYTYsNYrwQUVYrWNg9QhBDU2FBdcZlAqzIaab1zf8Kk5CH74MC2AFLcMO+7B0F76JZzwDNQc81zV8POlhDtjIunS8CWsOVHvSIhOrM712kmsdpaAPzF21Wo5f4PRIg9R6MO7uFziCjLxj+AUO+6wFyC+oyAt7OHbYp6lCpnWyC0Qwwx6eeyRBai3M3WdJe4RZqV3gsDbgkW9oaZOkirnAVZk18+7DPwWNAVsGImBB6zBVhVGHVemwUsvAZX0/KDpcMRe2DrsWA99DGOXT/fMbsnrJL5Z1fYfxCy6+pIhLIrO4xLdJuAizDL8BthZE6MMW67FkV7FYq7UWXLhFu64GRbtuD+dv+AKsY2Guy0arHj6rOpM4Iy/hn6r2ZLcoT0aTQbLJQIu46BM2h3yWwWGLHI/BHUNZsj0GV5BBLfYYuPjKGZQ59b5wPAZXg2iWy0azeKqtk+cggn3H6O3JHb27dCeZB/QrR6GWNn3aI9Qcz+FwQu3BjXV5GsS6PDbWpeeSRyKwYWvzGNpSrM0cH+KA2gw3suVpENnyOHlWeqx5JEIXthiPqywoFmOez3BANYa7Ap2nwRoL3sklVx1SgHVcTMHrsZjCO/4sta+47i8ke5xTZa1016XaSNKrN1JJpMno5SWfBaUx0CBKmmS4SZwlScP8vErbonITbjcts1WMlw/JbXVwPaK/eyA3OUsOWVIh79KbZMR9dv5TL2RW/UvyJ61VRs5vf+weiSeDM5ew4VhWMOlhLrmX5rWx/u5Dm0tOy13yulY4yHGX/LGCRba75J9QBYsPuoLF16CCxWcnSwLl1slgEiEP+rHNHzMBZM+b92i10qIWn513Xd+YR76npc2cfQ0yAXx2XlVUG9LaltMXaPnwghZk6nGMgqxKkJVWt0xZx//65tixMGmCPNXA9J9aDIK9ClwgK7YIf9iKPeYBKFZstSUuU7iJAFMNEgGmOpW4iACFLMAWZ5XKYkTesT7aQH2Hp6fHwPInHH8h8Ka/S3/hOcVBSFquBHa43kM3Su0klL1tNCC7ozCvG7+jzNa4bmXHkbez0VDfSydhNFicZSvhGA2WBitXWpyVKytlLiZB67nRqQ/H0iwGIeawh+ceuT9aq3Tn+dE+lVZpMVgWG6CGYzHU5IWt0rT7BoLnqxC/4BXgWJUQWdBajHoUnI1aLEOLVboLFmJj03DchZq8wLWYDSYP5GV08nGFrcRjkqRiJVbqGljo5MLO8nQYfoqkhdjY069mimS6Z9mk4YuyhtmQFhpDFapF2VEqyj2KlIYmyhoEKqi71DQEKh0O36r/F3pptI4hDJsNYZTJVbn8/huno+urwPVFrfoyxbavzUY5xlH6e7avLQD8GLavzYZAANm+FXmBj9NsbGNbok8/miXP8xUBDnuQHjNzZE+k9ki0Us/XZqMjgDxfW4PMHJvNzNHA8xUhC1uLx6CWYi1W6vnavPwbMGEtW4OwFtUEnTxfEa6gldgZs28UK7Faz9fpEZgamA47GuTeOGzgSS/PVwQybFEeE3FUi7JSz9eBm4gjeg07KFHmFIHp7PmKMIet0Wy0arOgRrEc0v7Y1UDNXzfwPdeecMxfdO7YyJyIFyFVstToOtZRa7vDWemWq+3rpcK/J+5jbEu2FSx6p/wxrGCHjW0BsoIdDWJb1JYSKvfpB7nkWcEiwCGP3cgc51ey51d7JLqrFWxJkGhkstMrOFZwTd7eEr3ryvaX6HZvsm9QdoY1DGGWD2tPIf46zJ26kzwUc1b9HoX4oELcdS4k5VmZs5I3HCGuyQv7WZmzWPfQ0iblAwz52djiLO49SvJBJdk0VWoyZzFvQLk5FXthazJnve5GrHkwS5jJBxmyLqOxwki5LnctIZOhy4hTYgRElJEG9UWIU1+kVaKOEGTYojzWFKkWZU+pKPeITw1NlOFXFCFORZHOiTpCzCFrtOV1eLAiwTOhfmp+ucLs845EOAuT+Grzm63slSJXZZ4tovo+JHFwnqYlJld3OeoPyS8cf5a/yI/0vwW0Zw7d/B+9l4uNy4+tLart5CPMqo/ZU7veLj5nnpn11uaDxUbzc423RzeEtzhHITVoUDZ5TR/pXkYdCcro6DHZsXZOE2SDA/K6MS0v7Nv2oexgUvXi681rq1vL+zvt5RuqU6g/tWEO01H7PQGO2+qoOm2moy9RsIPffEAKrqnkFZe1QSUDod5kahLaNZuU/odxZpjmPl4XW4ckqCjRVxVBrdZCJFabV10JardXNGnrpEyCdnjOUUFQ17ZlEtQzzV6aK5Gb9D0gJ8VN22lRqm3vduZm+yUrh+Rmh9cBD5Cbvj89qnhyCXrs0V0aQZ1WR0wig0yCdkj4VUFQ2+s5ujfIWD0YfEso5T15ruuftrgpCgwoG9hbaeXuVwd21M5PP+CTp2+dAjdLcfMa5DTOLNf7unqatLs1Yc9USifFr0lP89j0RMY2q6Zffu5sdeQfjp6oyzogKqTTcdwmO78zrrvluohrZuZUdT2F3KQFw01uIne/K35Y6XT3UKqzdLa46U0Px01O6fV2mcDDZxEvnLlxRl7CP1XscKz2Ul3thVqDqV8/1yop9kJjpfakmwHUudirvu+EBpDKYi/EKdSGU+yFNKjVRrxabV2LvYSAQ/Z/EKdQe5Tob3n0+yRaabEXp9waTo0B6jCrHHyxF6eiehjCLB9WyMVeiFN3PQrxQYVYZbEXctm0dEBCXJEX9rOyywaLH35EsIu8hMCCfiZ2eySbj1IsQ4qVFnkhlw1LwSnyqtkLXIvZyFPPePPwlVkAM2xlHldEUK3MSsu83B7RqKHJMvz1EJDLRpv0KvMSgQxblMc1EVSLstIyL/plEEUZ/oIIyOO8flXnMi8R5qA12mODVwzCA0sl86sE3k0qmcokR24iWYei0TGRjGHmqRQg2kxq4oZgfTO9GyWNnaj+RRbS6fBJpTPadP1YSh6ac9a7SqHVkdvuSCYLT6TEqztldibVfo25X2Mh4mmh8E33yrSwVeLiml/VwlZHTrujL7Mw30yTJGvunuLl/FcSkGKP/wM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-41-30-30-30-0">
+            <rect x="41" y="30" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-77-30-144-30-0">
+            <rect x="77" y="30" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-77-60-144-30-0">
+            <rect x="77" y="60" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-77-90-144-30-0">
+            <rect x="77" y="90" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-77-120-144-30-0">
+            <rect x="77" y="120" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-325-30-30-30-0">
+            <rect x="325" y="30" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-361-30-144-30-0">
+            <rect x="361" y="30" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-361-60-144-30-0">
+            <rect x="361" y="60" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-361-90-144-30-0">
+            <rect x="361" y="90" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-361-120-144-30-0">
+            <rect x="361" y="120" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-251-870-30-30-0">
+            <rect x="251" y="870" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-287-870-144-30-0">
+            <rect x="287" y="870" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-287-900-144-30-0">
+            <rect x="287" y="900" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-287-930-144-30-0">
+            <rect x="287" y="930" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-1-880-30-30-0">
+            <rect x="1" y="880" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-37-880-164-30-0">
+            <rect x="37" y="880" width="164" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-37-910-164-30-0">
+            <rect x="37" y="910" width="164" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-37-940-164-30-0">
+            <rect x="37" y="940" width="164" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-501-680-30-30-0">
+            <rect x="501" y="680" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-537-680-144-30-0">
+            <rect x="537" y="680" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-501-710-30-30-0">
+            <rect x="501" y="710" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-537-710-144-30-0">
+            <rect x="537" y="710" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-501-740-30-30-0">
+            <rect x="501" y="740" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-537-740-144-30-0">
+            <rect x="537" y="740" width="144" height="30"/>
+        </clipPath>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-ffcd28-1-ffa500-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(255, 205, 40); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(255, 165, 0); stop-opacity: 1;"/>
+        </linearGradient>
+        <clipPath id="mx-clip-31-290-30-30-0">
+            <rect x="31" y="290" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-67-290-144-30-0">
+            <rect x="67" y="290" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-320-30-30-0">
+            <rect x="31" y="320" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-67-320-144-30-0">
+            <rect x="67" y="320" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-350-30-30-0">
+            <rect x="31" y="350" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-67-350-144-30-0">
+            <rect x="67" y="350" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-67-380-144-30-0">
+            <rect x="67" y="380" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-67-410-144-30-0">
+            <rect x="67" y="410" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-301-290-30-30-0">
+            <rect x="301" y="290" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-337-290-144-30-0">
+            <rect x="337" y="290" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-301-320-30-30-0">
+            <rect x="301" y="320" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-337-320-144-30-0">
+            <rect x="337" y="320" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-301-350-30-30-0">
+            <rect x="301" y="350" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-337-350-144-30-0">
+            <rect x="337" y="350" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-337-380-144-30-0">
+            <rect x="337" y="380" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-337-410-144-30-0">
+            <rect x="337" y="410" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-281-530-30-30-0">
+            <rect x="281" y="530" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-317-530-144-30-0">
+            <rect x="317" y="530" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-281-560-30-20-0">
+            <rect x="281" y="560" width="30" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-317-560-144-20-0">
+            <rect x="317" y="560" width="144" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-281-580-30-30-0">
+            <rect x="281" y="580" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-317-580-144-30-0">
+            <rect x="317" y="580" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-281-610-30-30-0">
+            <rect x="281" y="610" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-317-610-144-30-0">
+            <rect x="317" y="610" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-317-640-144-30-0">
+            <rect x="317" y="640" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-317-670-144-30-0">
+            <rect x="317" y="670" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-21-535-30-30-0">
+            <rect x="21" y="535" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-57-535-144-30-0">
+            <rect x="57" y="535" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-21-565-30-20-0">
+            <rect x="21" y="565" width="30" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-57-565-144-20-0">
+            <rect x="57" y="565" width="144" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-21-585-30-30-0">
+            <rect x="21" y="585" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-57-585-144-30-0">
+            <rect x="57" y="585" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-21-615-30-30-0">
+            <rect x="21" y="615" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-57-615-144-30-0">
+            <rect x="57" y="615" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-57-645-144-30-0">
+            <rect x="57" y="645" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-57-675-144-30-0">
+            <rect x="57" y="675" width="144" height="30"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 41 30 L 41 0 L 221 0 L 221 30" fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 41 30 L 41 150 L 221 150 L 221 30" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 41 30 L 221 30" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 71 30 L 71 60 L 71 90 L 71 120 L 71 150" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="130.5" y="20.5">
+                Asiakas
+            </text>
+        </g>
+        <path d="M 41 30 M 221 30 M 221 60 L 41 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 41 30 M 71 30 M 71 60 M 41 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-41-30-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="55.5" y="49.5">
+                PK
+            </text>
+        </g>
+        <path d="M 71 30 M 221 30 M 221 60 M 71 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-77-30-144-30-0)" font-size="12px">
+            <text x="78.5" y="49.5">
+                AsiakasD
+            </text>
+        </g>
+        <path d="M 41 60 M 71 60 M 71 90 M 41 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 71 60 M 221 60 M 221 90 M 71 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-77-60-144-30-0)" font-size="12px">
+            <text x="78.5" y="79.5">
+                Nimi
+            </text>
+        </g>
+        <path d="M 41 90 M 71 90 M 71 120 M 41 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 71 90 M 221 90 M 221 120 M 71 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-77-90-144-30-0)" font-size="12px">
+            <text x="78.5" y="109.5">
+                Puhelinnumero
+            </text>
+        </g>
+        <path d="M 41 120 M 71 120 M 71 150 M 41 150" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 71 120 M 221 120 M 221 150 M 71 150" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-77-120-144-30-0)" font-size="12px">
+            <text x="78.5" y="139.5">
+                Sähköpostiosoite
+            </text>
+        </g>
+        <path d="M 325 30 L 325 0 L 505 0 L 505 30" fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 325 30 L 325 150 L 505 150 L 505 30" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 325 30 L 505 30" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 355 30 L 355 60 L 355 90 L 355 120 L 355 150" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="414.5" y="20.5">
+                Tuote
+            </text>
+        </g>
+        <path d="M 325 30 M 505 30 M 505 60 L 325 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 325 30 M 355 30 M 355 60 M 325 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-325-30-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="339.5" y="49.5">
+                PK
+            </text>
+        </g>
+        <path d="M 355 30 M 505 30 M 505 60 M 355 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-361-30-144-30-0)" font-size="12px">
+            <text x="362.5" y="49.5">
+                TuoteID
+            </text>
+        </g>
+        <path d="M 325 60 M 355 60 M 355 90 M 325 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 355 60 M 505 60 M 505 90 M 355 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-60-144-30-0)" font-size="12px">
+            <text x="362.5" y="79.5">
+                Nimi
+            </text>
+        </g>
+        <path d="M 325 90 M 355 90 M 355 120 M 325 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 355 90 M 505 90 M 505 120 M 355 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-90-144-30-0)" font-size="12px">
+            <text x="362.5" y="109.5">
+                Hinta
+            </text>
+        </g>
+        <path d="M 325 120 M 355 120 M 355 150 M 325 150" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 355 120 M 505 120 M 505 150 M 355 150" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-120-144-30-0)" font-size="12px">
+            <text x="362.5" y="139.5">
+                Kuvaus
+            </text>
+        </g>
+        <path d="M 251 870 L 251 840 L 431 840 L 431 870" fill="#76608a" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 251 870 L 251 990 L 431 990 L 431 870" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 251 870 L 431 870" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 870 L 281 900 L 281 930 L 281 960 L 281 990" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="340.5" y="860.5">
+                Rivi
+            </text>
+        </g>
+        <path d="M 251 870 M 431 870 M 431 900 L 251 900" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 251 870 M 281 870 M 281 900 M 251 900" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-251-870-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="265.5" y="889.5">
+                PK
+            </text>
+        </g>
+        <path d="M 281 870 M 431 870 M 431 900 M 281 900" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-287-870-144-30-0)" font-size="12px">
+            <text x="288.5" y="889.5">
+                RiviID
+            </text>
+        </g>
+        <path d="M 251 900 M 281 900 M 281 930 M 251 930" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 900 M 431 900 M 431 930 M 281 930" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-287-900-144-30-0)" font-size="12px">
+            <text x="288.5" y="919.5">
+                Sijainti
+            </text>
+        </g>
+        <path d="M 251 930 M 281 930 M 281 960 M 251 960" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 930 M 431 930 M 431 960 M 281 960" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-287-930-144-30-0)" font-size="12px">
+            <text x="288.5" y="942.5">
+                Tila:Kesken/Raaka/
+            </text>
+            <text x="288.5" y="956.5">
+                Poimittava
+            </text>
+        </g>
+        <path d="M 251 960 M 281 960 M 281 990 M 251 990" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 960 M 431 960 M 431 990 M 281 990" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 880 L 1 850 L 201 850 L 201 880" fill="#76608a" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 880 L 1 1000 L 201 1000 L 201 880" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 880 L 201 880" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 880 L 31 910 L 31 940 L 31 970 L 31 1000" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 181 880 L 181 1000" fill="none" stroke="#432d57" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="100.5" y="870.5">
+                Työntekijä
+            </text>
+        </g>
+        <path d="M 1 880 M 201 880 M 201 910 L 1 910" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 880 M 31 880 M 31 910 M 1 910" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-1-880-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="15.5" y="899.5">
+                PK
+            </text>
+        </g>
+        <path d="M 31 880 M 201 880 M 201 910 M 31 910" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-37-880-164-30-0)" font-size="12px">
+            <text x="38.5" y="899.5">
+                TyöntekijäID
+            </text>
+        </g>
+        <path d="M 1 910 M 31 910 M 31 940 M 1 940" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 910 M 201 910 M 201 940 M 31 940" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-37-910-164-30-0)" font-size="12px">
+            <text x="38.5" y="929.5">
+                Nimi
+            </text>
+        </g>
+        <path d="M 1 940 M 31 940 M 31 970 M 1 970" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 940 M 201 940 M 201 970 M 31 970" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-37-940-164-30-0)" font-size="12px">
+            <text x="38.5" y="959.5">
+                Puhelinnumero
+            </text>
+        </g>
+        <path d="M 1 970 M 31 970 M 31 1000 M 1 1000" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 970 M 181 970 M 181 1000 M 31 1000" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="191" cy="985" rx="3" ry="3" fill="rgb(0, 0, 0)" stroke="none" pointer-events="none"/>
+        <path d="M 501 680 L 501 650 L 681 650 L 681 680" fill="#a0522d" stroke="#6d1f00" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 501 680 L 501 800 L 681 800 L 681 680" fill="none" stroke="#6d1f00" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 501 680 L 681 680" fill="none" stroke="#6d1f00" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 531 680 L 531 710 L 531 740 L 531 770 L 531 800" fill="none" stroke="#6d1f00" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="590.5" y="670.5">
+                SääennusteAPI
+            </text>
+        </g>
+        <path d="M 501 680 M 681 680 M 681 710 L 501 710" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 501 680 M 531 680 M 531 710 M 501 710" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-501-680-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="515.5" y="699.5">
+                PK
+            </text>
+        </g>
+        <path d="M 531 680 M 681 680 M 681 710 M 531 710" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-537-680-144-30-0)" font-size="12px">
+            <text x="538.5" y="699.5">
+                SääennusteAPIID
+            </text>
+        </g>
+        <path d="M 501 710 M 531 710 M 531 740 M 501 740" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-501-710-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="515.5" y="729.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 531 710 M 681 710 M 681 740 M 531 740" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-537-710-144-30-0)" font-size="12px">
+            <text x="538.5" y="729.5">
+                RiviSijaintiID
+            </text>
+        </g>
+        <path d="M 501 740 M 531 740 M 531 770 M 501 770" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-501-740-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="515.5" y="759.5">
+                FK2
+            </text>
+        </g>
+        <path d="M 531 740 M 681 740 M 681 770 M 531 770" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-537-740-144-30-0)" font-size="12px">
+            <text x="538.5" y="752.5">
+                Tila:Kesken/Raaka/
+            </text>
+            <text x="538.5" y="766.5">
+                PoimittavaID
+            </text>
+        </g>
+        <path d="M 501 770 M 531 770 M 531 800 M 501 800" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 531 770 M 681 770 M 681 800 M 531 800" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 290 L 31 260 L 211 260 L 211 290" fill="url(#mx-gradient-ffcd28-1-ffa500-1-s-0)" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 290 L 31 440 L 211 440 L 211 290" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 290 L 211 290" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 61 290 L 61 320 L 61 350 L 61 380 L 61 410 L 61 440" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="120.5" y="280.5">
+                Tilaus
+            </text>
+        </g>
+        <path d="M 31 290 M 211 290 M 211 320 L 31 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 290 M 61 290 M 61 320 M 31 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-31-290-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="45.5" y="309.5">
+                PK
+            </text>
+        </g>
+        <path d="M 61 290 M 211 290 M 211 320 M 61 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-67-290-144-30-0)" font-size="12px">
+            <text x="68.5" y="302.5">
+                TilausID
+            </text>
+        </g>
+        <path d="M 31 320 M 61 320 M 61 350 M 31 350" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-31-320-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="45.5" y="339.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 61 320 M 211 320 M 211 350 M 61 350" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-67-320-144-30-0)" font-size="12px">
+            <text x="68.5" y="339.5">
+                AsiakasID
+            </text>
+        </g>
+        <path d="M 31 350 M 61 350 M 61 380 M 31 380" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-31-350-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="45.5" y="369.5">
+                FK2
+            </text>
+        </g>
+        <path d="M 61 350 M 211 350 M 211 380 M 61 380" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-67-350-144-30-0)" font-size="12px">
+            <text x="68.5" y="369.5">
+                TuoteID
+            </text>
+        </g>
+        <path d="M 31 380 M 61 380 M 61 410 M 31 410" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 61 380 M 211 380 M 211 410 M 61 410" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-67-380-144-30-0)" font-size="12px">
+            <text x="68.5" y="399.5">
+                Määrä
+            </text>
+        </g>
+        <path d="M 31 410 M 61 410 M 61 440 M 31 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 61 410 M 211 410 M 211 440 M 61 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-67-410-144-30-0)" font-size="12px">
+            <text x="68.5" y="429.5">
+                Päivämäärä
+            </text>
+        </g>
+        <path d="M 301 290 L 301 260 L 481 260 L 481 290" fill="url(#mx-gradient-ffcd28-1-ffa500-1-s-0)" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 301 290 L 301 440 L 481 440 L 481 290" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 301 290 L 481 290" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 331 290 L 331 320 L 331 350 L 331 380 L 331 410 L 331 440" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="390.5" y="280.5">
+                PoimintaVaraus
+            </text>
+        </g>
+        <path d="M 301 290 M 481 290 M 481 320 L 301 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 301 290 M 331 290 M 331 320 M 301 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-301-290-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="315.5" y="309.5">
+                PK
+            </text>
+        </g>
+        <path d="M 331 290 M 481 290 M 481 320 M 331 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-337-290-144-30-0)" font-size="12px">
+            <text x="338.5" y="309.5">
+                PoimintaVarausID
+            </text>
+        </g>
+        <path d="M 301 320 M 331 320 M 331 350 M 301 350" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-301-320-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="315.5" y="339.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 331 320 M 481 320 M 481 350 M 331 350" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-337-320-144-30-0)" font-size="12px">
+            <text x="338.5" y="339.5">
+                AsiakasID
+            </text>
+        </g>
+        <path d="M 301 350 M 331 350 M 331 380 M 301 380" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-301-350-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="315.5" y="369.5">
+                FK2
+            </text>
+        </g>
+        <path d="M 331 350 M 481 350 M 481 380 M 331 380" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-337-350-144-30-0)" font-size="12px">
+            <text x="338.5" y="369.5">
+                TuoteID
+            </text>
+        </g>
+        <path d="M 301 380 M 331 380 M 331 410 M 301 410" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 331 380 M 481 380 M 481 410 M 331 410" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-337-380-144-30-0)" font-size="12px">
+            <text x="338.5" y="399.5">
+                Määrä
+            </text>
+        </g>
+        <path d="M 301 410 M 331 410 M 331 440 M 301 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 331 410 M 481 410 M 481 440 M 331 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-337-410-144-30-0)" font-size="12px">
+            <text x="338.5" y="429.5">
+                Päivämäärä
+            </text>
+        </g>
+        <path d="M 281 530 L 281 500 L 461 500 L 461 530" fill="#6d8764" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 530 L 281 700 L 461 700 L 461 530" fill="none" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 530 L 461 530" fill="none" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 311 530 L 311 560 L 311 580 L 311 610 L 311 640 L 311 670 L 311 700" fill="none" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="370.5" y="520.5">
+                PoimittavaRiviAsiakasID
+            </text>
+        </g>
+        <path d="M 281 530 M 461 530 M 461 560 L 281 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281 530 M 311 530 M 311 560 M 281 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-281-530-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="295.5" y="549.5">
+                PK
+            </text>
+        </g>
+        <path d="M 311 530 M 461 530 M 461 560 M 311 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-317-530-144-30-0)" font-size="12px">
+            <text x="318.5" y="549.5">
+                PoimittavaRiviID
+            </text>
+        </g>
+        <path d="M 281 560 M 311 560 M 311 580 M 281 580" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-281-560-30-20-0)" text-anchor="middle" font-size="12px">
+            <text x="295.5" y="574.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 311 560 M 461 560 M 461 580 M 311 580" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-317-560-144-20-0)" font-size="12px">
+            <text x="318.5" y="574.5">
+                RiviID
+            </text>
+        </g>
+        <path d="M 281 580 M 311 580 M 311 610 M 281 610" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-281-580-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="295.5" y="599.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 311 580 M 461 580 M 461 610 M 311 610" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-317-580-144-30-0)" font-size="12px">
+            <text x="318.5" y="599.5">
+                PoimintaVarausID
+            </text>
+        </g>
+        <path d="M 281 610 M 311 610 M 311 640 M 281 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-281-610-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="295.5" y="629.5">
+                FK2
+            </text>
+        </g>
+        <path d="M 311 610 M 461 610 M 461 640 M 311 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-317-610-144-30-0)" font-size="12px">
+            <text x="318.5" y="622.5">
+                AsiakasID
+            </text>
+        </g>
+        <path d="M 281 640 M 311 640 M 311 670 M 281 670" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 311 640 M 461 640 M 461 670 M 311 670" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-317-640-144-30-0)" font-size="12px">
+            <text x="318.5" y="659.5">
+                Määrä
+            </text>
+        </g>
+        <path d="M 281 670 M 311 670 M 311 700 M 281 700" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 311 670 M 461 670 M 461 700 M 311 700" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-317-670-144-30-0)" font-size="12px">
+            <text x="318.5" y="689.5">
+                Päivämäärä
+            </text>
+        </g>
+        <path d="M 129.92 153 L 109.92 153 Q 99.92 153 99.92 163 L 99.92 196.5 Q 99.92 206.5 109.92 206.5 L 141 206.5 Q 151 206.5 151 216.5 L 151 250 Q 151 260 141 260 L 121 260" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 129 256 L 129 264 M 121 264 L 129 260 L 121 256" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170.96 150.99 L 190.96 150.99 Q 200.96 150.99 209.44 156.3 L 363.5 252.71 Q 371.98 258.02 381.98 258.02 L 401.98 258.02" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 393.98 262.02 L 393.98 254.02 M 401.98 254.02 L 393.98 258.02 L 401.98 262.02" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 440.92 150.99 L 420.92 150.99 Q 410.92 150.99 410.92 160.99 L 410.92 195.5 Q 410.92 205.5 420.92 205.5 L 448.98 205.5 Q 458.98 205.5 458.98 215.5 L 458.98 250 Q 458.98 260 448.98 260 L 428.98 260" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 436.98 256 L 436.98 264 M 428.98 264 L 436.98 260 L 428.98 256" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 440.92 150.99 L 420.92 150.99 Q 410.92 150.99 402.21 155.9 L 229.73 253.11 Q 221.02 258.02 211.02 258.02 L 191.02 258.02" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 199.02 254.02 L 199.02 262.02 M 191.02 262.02 L 199.02 258.02 L 191.02 254.02" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 385.96 440.99 L 405.96 440.99 Q 415.96 440.99 415.96 450.99 L 415.96 460.74 Q 415.96 470.49 407.46 470.49 L 403.21 470.49 Q 398.96 470.49 398.96 480.49 L 398.96 490.25 Q 398.96 500 408.96 500 L 428.96 500" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 420.96 504 L 420.96 496 M 428.96 496 L 420.96 500 L 428.96 504" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 497.94 748.01 L 477.94 748.01 Q 467.94 748.01 467.69 758.01 L 464.31 893 Q 464.06 903 454.06 903 L 434.06 903" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 442.06 899 L 442.06 907 M 434.06 907 L 442.06 903 L 434.06 899" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 351.08 840 L 331.08 840 Q 321.08 840 313.45 833.54 L 171.67 713.47 Q 164.04 707.01 154.04 707.01 L 134.04 707.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 142.04 703.01 L 142.04 711.01 M 134.04 711.01 L 142.04 707.01 L 134.04 703.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 21 535 L 21 505 L 201 505 L 201 535" fill="#6d8764" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 21 535 L 21 705 L 201 705 L 201 535" fill="none" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 21 535 L 201 535" fill="none" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 51 535 L 51 565 L 51 585 L 51 615 L 51 645 L 51 675 L 51 705" fill="none" stroke="#3a5431" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="110.5" y="525.5">
+                PoimittavaRiviTyöntekijäID
+            </text>
+        </g>
+        <path d="M 21 535 M 201 535 M 201 565 L 21 565" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 21 535 M 51 535 M 51 565 M 21 565" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-21-535-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="35.5" y="554.5">
+                PK
+            </text>
+        </g>
+        <path d="M 51 535 M 201 535 M 201 565 M 51 565" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-57-535-144-30-0)" font-size="12px">
+            <text x="58.5" y="554.5">
+                PoimittavaRiviID
+            </text>
+        </g>
+        <path d="M 21 565 M 51 565 M 51 585 M 21 585" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-21-565-30-20-0)" text-anchor="middle" font-size="12px">
+            <text x="35.5" y="579.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 51 565 M 201 565 M 201 585 M 51 585" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-57-565-144-20-0)" font-size="12px">
+            <text x="58.5" y="579.5">
+                RiviID
+            </text>
+        </g>
+        <path d="M 21 585 M 51 585 M 51 615 M 21 615" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-21-585-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="35.5" y="604.5">
+                FK1
+            </text>
+        </g>
+        <path d="M 51 585 M 201 585 M 201 615 M 51 615" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-57-585-144-30-0)" font-size="12px">
+            <text x="58.5" y="604.5">
+                TIlausID
+            </text>
+        </g>
+        <path d="M 21 615 M 51 615 M 51 645 M 21 645" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-21-615-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="35.5" y="634.5">
+                FK2
+            </text>
+        </g>
+        <path d="M 51 615 M 201 615 M 201 645 M 51 645" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-57-615-144-30-0)" font-size="12px">
+            <text x="58.5" y="634.5">
+                TyöntekijäID
+            </text>
+        </g>
+        <path d="M 21 645 M 51 645 M 51 675 M 21 675" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 51 645 M 201 645 M 201 675 M 51 675" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-57-645-144-30-0)" font-size="12px">
+            <text x="58.5" y="664.5">
+                Määrä
+            </text>
+        </g>
+        <path d="M 21 675 M 51 675 M 51 705 M 21 705" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 51 675 M 201 675 M 201 705 M 51 705" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-57-675-144-30-0)" font-size="12px">
+            <text x="58.5" y="694.5">
+                Päivämäärä
+            </text>
+        </g>
+        <path d="M 351.08 840 L 371.08 840 Q 381.08 840 382.51 830.1 L 399.51 712.9 Q 400.94 703 410.94 703 L 430.94 703" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 422.94 707 L 422.94 699 M 430.94 699 L 422.94 703 L 430.94 707" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 101 850 L 81 850 Q 71 850 71 840 L 71 787.99 Q 71 777.99 81 777.99 L 118.04 777.99 Q 128.04 777.99 128.04 767.99 L 128.04 715.99 Q 128.04 705.99 118.04 705.99 L 98.04 705.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 106.04 701.99 L 106.04 709.99 M 98.04 709.99 L 106.04 705.99 L 98.04 701.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 111 505 L 131 505 Q 141 505 141 495 L 141 482.99 Q 141 472.99 131 472.99 L 122.52 472.99 Q 114.04 472.99 114.04 462.99 L 114.04 450.99 Q 114.04 440.99 124.04 440.99 L 144.04 440.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 136.04 444.99 L 136.04 436.99 M 144.04 436.99 L 136.04 440.99 L 144.04 444.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>
