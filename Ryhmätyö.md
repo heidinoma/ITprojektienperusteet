@@ -44,7 +44,7 @@ b) varaa itselleen paikan poimiakseen marjat itse.
 4) Asiakas voi tehdä muutoksia ehtojen mukaan poimintavaraukseen
 5) Asiakas menee odotuslistalle ja mahdollisesti vapautuva paikka osoitetaan autom. seuraavalle listalle.
 
-
+[Tietomalli](Tietomalli.drawio.svg)
 
 # 5. (2 p.) RBS perusteella Karkea tietojärjestelmän osien kartoitus. Vähintään nimet ja lyhyet (!) kuvaukset. Millaisista osista project goalin ja siitä johdettujen vaatimusten täyttävä järjestelmä muodostuisi. Käyttäkää myös edellisen tehtäväosan tietomallia. Jos energiaa riittää niin:
 https://en.wikipedia.org/wiki/Deployment_diagram
