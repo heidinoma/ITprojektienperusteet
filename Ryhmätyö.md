@@ -34,7 +34,7 @@ Agile > iteratiivinen > PROTOTYPING. Agile, koska vaatimukset ovat kutakuinkin s
 
 # 4. (2 p.) RBS perusteella tarvittavan tiedon kartoitus: mitä tietoa vaatimukset täyttävä sovellus/tietojärjestelmä tarvitsee/käyttää. (Älkää ajatelko projektin toimintaan liittyvää tietoa tässä). mistä/mitä tietoa kerätään. Jonkinlainen jäsennelty tietomalli/lista (käsitemalli, jos joku teistä osaa). Kuvatkaa lyhyesti miten tietomallin olette tehneet.
 
-Liitteenä Tietomalli draw.io:lla piirrettynä: [Tietomalli](Tietomalli.drawio.svg) Tietomallin pohjana käytetty projektin aiheena oleva sovellus-tietojärjestelmä mansikkatilalle, jossa vaatimuksina
+Liitteenä Tietomalli draw.io:lla piirrettynä: [Tietomalli](Tietomalli.drawio.svg). Tietomallin pohjana käytetty projektin aiheena oleva sovellus-tietojärjestelmä mansikkatilalle, jossa vaatimuksina
 
 1) Asiakas rekisteröi itsensä mobiiliapplikaation tai selaimen kautta järjestelmään. Tekee joko
 a) tilauksen hänelle poimituista marjoista ja hakee nämä paikan päältä ja maksaa etukäteen tilauksen teon yhteydessä.
