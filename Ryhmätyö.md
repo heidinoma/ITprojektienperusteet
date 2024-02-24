@@ -14,6 +14,7 @@ Varauksen tekeminen ja muuttaminen
 -	varasijat ja jonottaminen vapautuville poiminta-ajoille
 -	poiminta-astioiden varaaminen tarvittaessa
 -	peruuttaminen erikseen määriteltyjen ehtojen mukaan
+-	kanta-asiakasjärjestelmä usein asioiville
 
 Säätilan huomiointi ja integrointi varausjärjestelmään:
 -	mansikan kypsymisaikataulun huomioiminen
