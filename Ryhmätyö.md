@@ -9,27 +9,27 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 
 ## #1 Itsepoiminnan varauksen tekeminen  
 ###        #1.1 Varauksen tekeminen verkkokaupassa  
-####               * #1.1.1 Poimintapäivän ja poimijamäärän valinta  
-####               * #1.1.2 Poimittavan kilomäärän arvion syöttäminen  
-####               * #1.1.3 Varausmaksun tekeminen  
-####               * #1.1.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
+####               #1.1.1 Poimintapäivän ja poimijamäärän valinta  
+####               #1.1.2 Poimittavan kilomäärän arvion syöttäminen  
+####               #1.1.3 Varausmaksun tekeminen  
+####               #1.1.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
 ###        #1.2 Varauksen tekeminen mobiilisovelluksessa  
-####               * #1.2.1 Poimintapäivän ja poimijamäärän valinta  
-####               * #1.2.2 Poimittavan kilomäärän arvion syöttäminen  
-####               * #1.2.3 Varausmaksun tekeminen  
-####               * #1.2.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
+####               #1.2.1 Poimintapäivän ja poimijamäärän valinta  
+####               #1.2.2 Poimittavan kilomäärän arvion syöttäminen  
+####               #1.2.3 Varausmaksun tekeminen  
+####               #1.2.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
 
 ## #2 Mansikan myynti  
 ###        #2.1 Ostaminen verkkokaupan kautta   
-####               * #2.1.1 Lajikkeen ja kilomäärän valinta  
-####               * #2.1.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen  
+####               #2.1.1 Lajikkeen ja kilomäärän valinta  
+####               #2.1.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen  
 ###        #2.2 Ostaminen mobiilisovelluksen kautta  
-####               * #2.2.1 Lajikkeen ja kilomäärän valinta  
-####               * #2.2.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen  
+####               #2.2.1 Lajikkeen ja kilomäärän valinta  
+####               #2.2.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen  
 
 ## #3 Asiakastilien hallinta  
 ###        #3.1 Tilien luominen  
-####               * #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen  
+####               #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen  
 ####                      #3.1.1.1 Ostohistorian tarkasteleminen  
 ####                      #3.1.1.2 Asiakastietojen tarkastelu  
 ####                      #3.1.1.3 Asiakastietojen muokkaaminen  
@@ -40,20 +40,20 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 
 ## #4 Toiminnanohjaus  
 ###        #4.1 Työntekijämäärän hallinta  
-####               * #4.1.1 Työntekijän varaaminen töihin  
-####               * #4.1.2 Työmääräyksen teko  
+####               #4.1.1 Työntekijän varaaminen töihin  
+####               #4.1.2 Työmääräyksen teko  
 #####                     #4.1.2.1 Poiminnan aloitusrivin osoittaminen  
 #####                     #4.1.2.2 Poimittavan kilomäärän osoittaminen  
 
 ## #5 Mansikan kypsymisennusteiden tekeminen ja liittäminen toiminnanohjaukseen  
 ###        #5.1 Mansikan kypsymisen ennakointi  
-####               * #5.1.1 Tilastotiedon hakeminen järjestelmään  
-####               * #5.1.2 Säätietojen hakeminen järjestelmään  
-####               * #5.1.3 Tilan omien satotietojen vienti järjestelmään  
-####               * #5.1.4 Ennustelaskelmien tekeminen  
-####               * #5.1.5 Pilaantuvan sadon määrän ennakointi  
+####               #5.1.1 Tilastotiedon hakeminen järjestelmään  
+####               #5.1.2 Säätietojen hakeminen järjestelmään  
+####               #5.1.3 Tilan omien satotietojen vienti järjestelmään  
+####               #5.1.4 Ennustelaskelmien tekeminen  
+####               #5.1.5 Pilaantuvan sadon määrän ennakointi  
 ###        #5.2 Vapaana olevan sadon määrän laskeminen  
-####               * #5.2.1 Tiedon vienti varaus-/myyntijärjestelmään > rivien vapauttaminen poimittavaksi   
+####               #5.2.1 Tiedon vienti varaus-/myyntijärjestelmään > rivien vapauttaminen poimittavaksi   
 
 Liitteenä projektin vaatimukset puumallina esitettynä: [Vaatimukset](Projektin vaatimukset.drawio.svg)
 
