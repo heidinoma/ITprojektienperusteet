@@ -3,6 +3,15 @@
 Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen vaiheittain. Ensimmäisessä vaiheessa itsepoiminta-aikojen sekä valmiiksi poimittujen mansikoiden määrän ja noutoajankohdan varaaminen.
 (Wysocki 2019, 178-180.)
 
+Ehdottaisin tähän: 
+Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen tarkoituksena helpottaa ja tehostaa mansikkatilan toiminnan ja työn hallintaa, varauksia ja myyntiä sekä parantaa asiakaskokemusta.
+Perustelu: Wysock s.178: Goal on yksi lause 
+Wysock s. 179
+A project has one goal. The goal gives purpose and direction to the project. At a very high level, it defines the final deliverable or outcome of the project in clear terms so that everyone understands what is to be accomplished. 
+
+Just like the problem or opportunity statement, the goal statement is short and to the point.
+
+
 # 2. (5 p.) Vaatimuksien kartoitus (RBS): Vähintään 5 kappaletta joista väh. 1 ylimmällä tasolla. voitte tehdä sisennettynä listana jonka juurena on ym. "Project goal"tai puuna (2-3 tasoa riittää). Miellekartta-muoto on myös ok. Priorisoikaa vaatimukset. (halutessanne voitte käyttää UML usecase kaavioita keskustelun tukena)
 
 Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
