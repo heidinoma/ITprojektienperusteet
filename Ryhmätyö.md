@@ -66,8 +66,8 @@ Agile > iteratiivinen > PROTOTYPING. Agile, koska vaatimukset ovat kutakuinkin s
 
 Liitteenä Tietomalli draw.io:lla piirrettynä: [Tietomalli](Tietomalli.drawio.svg). Tietomallin pohjana käytetty projektin aiheena oleva sovellus-tietojärjestelmä mansikkatilalle, jossa vaatimuksina
 
-1) Asiakas rekisteröi itsensä mobiiliapplikaation tai selaimen kautta järjestelmään. Tekee joko
-a) tilauksen hänelle poimituista marjoista ja hakee nämä paikan päältä ja maksaa etukäteen tilauksen teon yhteydessä.
+1) Asiakas rekisteröi itsensä mobiiliapplikaation tai selaimen kautta järjestelmään. Tekee joko  
+a) tilauksen hänelle poimituista marjoista ja hakee nämä paikan päältä ja maksaa etukäteen tilauksen teon yhteydessä.  
 b) varaa itselleen paikan poimiakseen marjat itse.
 2) Mansikkatila varaa tarvittava(t) työntekijät tilauksen a) täyttämiseen ja työntekijä osoitetaan poimittavalle riville sen mukaan, mitä toiminnanohjausjärjestelmä ohjaa saadun sääennusteen- ja tilastotiedon mukaan API:n kautta muusta järjestelmästä.
 3) Asiakas ohjataan poimittavalle riville
