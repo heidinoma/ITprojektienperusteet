@@ -27,7 +27,7 @@ Säätilan huomiointi ja integrointi varausjärjestelmään
 -	säätietojen seuraaminen ja hyödyntäminen
 -	uuden datan tallentaminen ja hyödyntäminen laskelmissa
 
-Liitteenä projektin vaatimukset puumallina esitettynä: [Vaatimukset](Projektin vaatimukset.drawio.svg).
+Liitteenä projektin vaatimukset puumallina esitettynä: [Vaatimukset](Projektin vaatimukset.drawio.svg)
 
 # 3. (5 p.)Projektin luokitus ja sen perustelu, (tarkalla tasolla, eli valitaan "kauppanimi" kuten scrum, tässä harjoituksessa ei ole pakko valita scrummia, mutta perustelu Wysockin mukaan arvoidaan. Perusoletus: tekijöiksi saadaan kokeneita ihmisiä)
 
