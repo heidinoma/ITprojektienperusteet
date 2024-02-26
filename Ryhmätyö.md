@@ -29,31 +29,31 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 
 ## #3 Asiakastilien hallinta  
 ###        #3.1 Tilien luominen  
-                #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen  
-                        #3.1.1.1 Ostohistorian tarkasteleminen  
-                        #3.1.1.2 Asiakastietojen tarkastelu  
-                        #3.1.1.3 Asiakastietojen muokkaaminen  
-                        #3.1.1.4 Varausten muokkaaminen  
-                        #3.1.1.5 Varausten peruuttaminen  
-        #3.2 Skaalautuvuus käyttäjämäärän lisääntyessä  
-        #3.3 Kanta-asiakasjärjestelmä  
+####               * #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen  
+####                      #3.1.1.1 Ostohistorian tarkasteleminen  
+####                      #3.1.1.2 Asiakastietojen tarkastelu  
+####                      #3.1.1.3 Asiakastietojen muokkaaminen  
+####                      #3.1.1.4 Varausten muokkaaminen  
+####                      #3.1.1.5 Varausten peruuttaminen  
+###        #3.2 Skaalautuvuus käyttäjämäärän lisääntyessä  
+###        #3.3 Kanta-asiakasjärjestelmä  
 
-#4 Toiminnanohjaus  
-        #4.1 Työntekijämäärän hallinta  
-                #4.1.1 Työntekijän varaaminen töihin  
-                #4.1.2 Työmääräyksen teko  
-                        #4.1.2.1 Poiminnan aloitusrivin osoittaminen  
-                        #4.1.2.2 Poimittavan kilomäärän osoittaminen  
+## #4 Toiminnanohjaus  
+###        #4.1 Työntekijämäärän hallinta  
+####               * #4.1.1 Työntekijän varaaminen töihin  
+####               * #4.1.2 Työmääräyksen teko  
+#####                     #4.1.2.1 Poiminnan aloitusrivin osoittaminen  
+#####                     #4.1.2.2 Poimittavan kilomäärän osoittaminen  
 
-#5 Mansikan kypsymisennusteiden tekeminen ja liittäminen toiminnanohjaukseen  
-        #5.1 Mansikan kypsymisen ennakointi  
-                #5.1.1 Tilastotiedon hakeminen järjestelmään  
-                #5.1.2 Säätietojen hakeminen järjestelmään  
-                #5.1.3 Tilan omien satotietojen vienti järjestelmään  
-                #5.1.4 Ennustelaskelmien tekeminen  
-                #5.1.5 Pilaantuvan sadon määrän ennakointi  
-        #5.2 Vapaana olevan sadon määrän laskeminen  
-                #5.2.1 Tiedon vienti varaus-/myyntijärjestelmään > rivien vapauttaminen poimittavaksi  
+## #5 Mansikan kypsymisennusteiden tekeminen ja liittäminen toiminnanohjaukseen  
+###        #5.1 Mansikan kypsymisen ennakointi  
+####               * #5.1.1 Tilastotiedon hakeminen järjestelmään  
+####               * #5.1.2 Säätietojen hakeminen järjestelmään  
+####               * #5.1.3 Tilan omien satotietojen vienti järjestelmään  
+####               * #5.1.4 Ennustelaskelmien tekeminen  
+####               * #5.1.5 Pilaantuvan sadon määrän ennakointi  
+###        #5.2 Vapaana olevan sadon määrän laskeminen  
+####               * #5.2.1 Tiedon vienti varaus-/myyntijärjestelmään > rivien vapauttaminen poimittavaksi   
 
 Liitteenä projektin vaatimukset puumallina esitettynä: [Vaatimukset](Projektin vaatimukset.drawio.svg)
 
