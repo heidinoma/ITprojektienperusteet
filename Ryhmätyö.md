@@ -7,17 +7,17 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen vaihe
 
 Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 
-#1 Itsepoiminnan varauksen tekeminen
-    #1.1 Varauksen tekeminen verkkokaupassa
-        #1.1.1 Poimintapäivän ja poimijamäärän valinta
-        #1.1.2 Poimittavan kilomäärän arvion syöttäminen
-        #1.1.3 Varausmaksun tekeminen
-        #1.1.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana
-    #1.2 Varauksen tekeminen mobiilisovelluksessa
-        #1.2.1 Poimintapäivän ja poimijamäärän valinta
-        #1.2.2 Poimittavan kilomäärän arvion syöttäminen
-        #1.2.3 Varausmaksun tekeminen
-        #1.2.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana
+#1 Itsepoiminnan varauksen tekeminen  
+    #1.1 Varauksen tekeminen verkkokaupassa  
+        #1.1.1 Poimintapäivän ja poimijamäärän valinta  
+        #1.1.2 Poimittavan kilomäärän arvion syöttäminen  
+        #1.1.3 Varausmaksun tekeminen  
+        #1.1.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
+    #1.2 Varauksen tekeminen mobiilisovelluksessa  
+        #1.2.1 Poimintapäivän ja poimijamäärän valinta  
+        #1.2.2 Poimittavan kilomäärän arvion syöttäminen  
+        #1.2.3 Varausmaksun tekeminen  
+        #1.2.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
 
 #2 Mansikan myynti
     #2.1 Ostaminen verkkokaupan kautta 
