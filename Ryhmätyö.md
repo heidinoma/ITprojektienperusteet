@@ -18,6 +18,7 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
         #1.2.2 Poimittavan kilomäärän arvion syöttäminen
         #1.2.3 Varausmaksun tekeminen
         #1.2.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana
+
 #2 Mansikan myynti
     #2.1 Ostaminen verkkokaupan kautta 
         #2.1.1 Lajikkeen ja kilomäärän valinta
@@ -25,6 +26,7 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
     #2.2 Ostaminen mobiilisovelluksen kautta
         #2.2.1 Lajikkeen ja kilomäärän valinta
         #2.2.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen
+
 #3 Asiakastilien hallinta
     #3.1 Tilien luominen
         #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen
@@ -35,6 +37,7 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
             #3.1.1.5 Varausten peruuttaminen
     #3.2 Skaalautuvuus käyttäjämäärän lisääntyessä
     #3.3 Kanta-asiakasjärjestelmä
+
 #4 Toiminnanohjaus
     #4.1 Työntekijämäärän hallinta
         #4.1.1 Työntekijän varaaminen töihin
