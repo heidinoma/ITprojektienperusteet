@@ -5,18 +5,42 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen vaihe
 
 # 2. (5 p.) Vaatimuksien kartoitus (RBS): Vähintään 5 kappaletta joista väh. 1 ylimmällä tasolla. voitte tehdä sisennettynä listana jonka juurena on ym. "Project goal"tai puuna (2-3 tasoa riittää). Miellekartta-muoto on myös ok. Priorisoikaa vaatimukset. (halutessanne voitte käyttää UML usecase kaavioita keskustelun tukena)
 
-Varauksen tekeminen ja muuttaminen
-- toimivuus sekä mobiilisovelluksessa että nettisivuilla
-- pääsynhallinta
--	poimintapäivän ja poimijamäärän valinta
--	valmiiksi poimittujen mansikoiden varaaminen
--	asiakkaan ennakkoarvio poimimastaan määrästä / suoraan ostettavan mansikan kg-määrä
--	varausmaksun mahdollistaminen
--	varasijat ja jonottaminen vapautuville poiminta-ajoille
--	poiminta-astioiden varaaminen tarvittaessa
--	peruuttaminen erikseen määriteltyjen ehtojen mukaan
--	kanta-asiakasjärjestelmä usein asioiville
--	helposti skaalautuva käyttäjämäärän lisääntyessä
+Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
+
+#1 Itsepoiminnan varauksen tekeminen
+    #1.1 Varauksen tekeminen verkkokaupassa
+        #1.1.1 Poimintapäivän ja poimijamäärän valinta
+        #1.1.2 Poimittavan kilomäärän arvion syöttäminen
+        #1.1.3 Varausmaksun tekeminen
+        #1.1.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana
+    #1.2 Varauksen tekeminen mobiilisovelluksessa
+        #1.2.1 Poimintapäivän ja poimijamäärän valinta
+        #1.2.2 Poimittavan kilomäärän arvion syöttäminen
+        #1.2.3 Varausmaksun tekeminen
+        #1.2.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana
+#2 Mansikan myynti
+    #2.1 Ostaminen verkkokaupan kautta 
+        #2.1.1 Lajikkeen ja kilomäärän valinta
+        #2.1.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen
+    #2.2 Ostaminen mobiilisovelluksen kautta
+        #2.2.1 Lajikkeen ja kilomäärän valinta
+        #2.2.2 Varausmaksun tekeminen / lopullisen hinnan maksaminen
+#3 Asiakastilien hallinta
+    #3.1 Tilien luominen
+        #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen
+            #3.1.1.1 Ostohistorian tarkasteleminen
+            #3.1.1.2 Asiakastietojen tarkastelu
+            #3.1.1.3 Asiakastietojen muokkaaminen
+            #3.1.1.4 Varausten muokkaaminen
+            #3.1.1.5 Varausten peruuttaminen
+    #3.2 Skaalautuvuus käyttäjämäärän lisääntyessä
+    #3.3 Kanta-asiakasjärjestelmä
+#4 Toiminnanohjaus
+    #4.1 Työntekijämäärän hallinta
+        #4.1.1 Työntekijän varaaminen töihin
+        #4.1.2 Työmääräyksen teko
+            #4.1.2.1 Poiminnan aloitusrivin osoittaminen
+            #4.1.2.2 Poimittavan kilomäärän osoittaminen
 
 Säätilan huomiointi ja integrointi varausjärjestelmään
 -	mansikan kypsymisaikataulun huomioiminen
