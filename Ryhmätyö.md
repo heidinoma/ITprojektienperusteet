@@ -45,16 +45,15 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
                         #4.1.2.1 Poiminnan aloitusrivin osoittaminen  
                         #4.1.2.2 Poimittavan kilomäärän osoittaminen  
 
-#5 Mansikan kypsymisennuste toiminnanohjaukseen  
-        
-Säätilan huomiointi ja integrointi varausjärjestelmään
--	mansikan kypsymisaikataulun huomioiminen
--	mansikan pilaantumisen ennakointi
--	vapaana olevan sadon määrän laskeminen
--	poimintaolosuhteiden huomiointi?
--	olemassa olevan datan hyödyntäminen laskelmissa
--	säätietojen seuraaminen ja hyödyntäminen
--	uuden datan tallentaminen ja hyödyntäminen laskelmissa
+#5 Mansikan kypsymisennusteiden tekeminen ja liittäminen toiminnanohjaukseen  
+        #5.1 Mansikan kypsymisen ennakointi  
+                #5.1.1 Tilastotiedon hakeminen järjestelmään  
+                #5.1.2 Säätietojen hakeminen järjestelmään  
+                #5.1.3 Tilan omien satotietojen vienti järjestelmään  
+                #5.1.4 Ennustelaskelmien tekeminen  
+                #5.1.5 Pilaantuvan sadon määrän ennakointi  
+        #5.2 Vapaana olevan sadon määrän laskeminen  
+                #5.2.1 Tiedon vienti varaus-/myyntijärjestelmään > rivien vapauttaminen poimittavaksi  
 
 Liitteenä projektin vaatimukset puumallina esitettynä: [Vaatimukset](Projektin vaatimukset.drawio.svg)
 
