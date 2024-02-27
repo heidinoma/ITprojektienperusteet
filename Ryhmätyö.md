@@ -17,10 +17,10 @@ Just like the problem or opportunity statement, the goal statement is short and 
 Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 
 ## #1 Itsepoiminnan varauksen tekeminen  
-###        #1.1 Varauksen tekeminen verkkokaupassa  
-####               #1.1.1 Poimintapäivän ja poimijamäärän valinta  
-####               #1.1.2 Poimittavan kilomäärän arvion syöttäminen  
-####               #1.1.3 Varausmaksun tekeminen  
+  ### #1.1 Varauksen tekeminen verkkokaupassa  
+      #### #1.1.1 Poimintapäivän ja poimijamäärän valinta  
+      #### #1.1.2 Poimittavan kilomäärän arvion syöttäminen  
+      #### #1.1.3 Varausmaksun tekeminen  
 ####               #1.1.4 Jonotuslistalle jääminen, jos paikkoja ei ole vapaana  
 ###        #1.2 Varauksen tekeminen mobiilisovelluksessa  
 ####               #1.2.1 Poimintapäivän ja poimijamäärän valinta  
@@ -38,14 +38,17 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 
 ## #3 Asiakastilien hallinta  
 ###        #3.1 Tilien luominen  
-####               #3.1.1 Rekisteröinti, kirjautuminen ja tietojen muokkaaminen  
-####                      #3.1.1.1 Ostohistorian tarkasteleminen  
-####                      #3.1.1.2 Asiakastietojen tarkastelu  
-####                      #3.1.1.3 Asiakastietojen muokkaaminen  
-####                      #3.1.1.4 Varausten muokkaaminen  
-####                      #3.1.1.5 Varausten peruuttaminen  
+####               #3.1.1 Rekisteröinti  
+####               #3.1.2 Kirjautuminen  
+####               #3.1.3 Asiakastietojen tarkastelu  
+####               #3.1.4 Asiakastietojen muokkaaminen  
+####               #3.1.5 Varausten/ostosten tekeminen  
+####               #3.1.6 Ostohistorian tarkasteleminen  
+####               #3.1.7 Varausten muokkaaminen  
+####               #3.1.8 Varausten peruuttaminen  
 ###        #3.2 Skaalautuvuus käyttäjämäärän lisääntyessä  
 ###        #3.3 Kanta-asiakasjärjestelmä  
+####               #3.3.1 Asiakaskohtaiset tarjoukset
 
 ## #4 Toiminnanohjaus  
 ###        #4.1 Työntekijämäärän hallinta  
@@ -59,7 +62,7 @@ Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen
 ####               #5.1.1 Tilastotiedon hakeminen järjestelmään  
 ####               #5.1.2 Säätietojen hakeminen järjestelmään  
 ####               #5.1.3 Tilan omien satotietojen vienti järjestelmään  
-####               #5.1.4 Ennustelaskelmien tekeminen  
+####               #5.1.4 Kypsymisennustelaskelmien tekeminen  
 ####               #5.1.5 Pilaantuvan sadon määrän ennakointi  
 ###        #5.2 Vapaana olevan sadon määrän laskeminen  
 ####               #5.2.1 Tiedon vienti varaus-/myyntijärjestelmään > rivien vapauttaminen poimittavaksi   
