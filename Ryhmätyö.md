@@ -1,15 +1,15 @@
-# 1. (4 p.) Yksi Business/Project goal: Etsikää Wysockin kirjasta ohjetta, viittaus siihen vaaditaan. Muotoilkaa case-materiaalin avulla Project goal eli projektin tavoite oltava melko tarkalla tasolla. Eli liiketoimintaa tukeva projektin tavoite, "project goal" on se projektin lähtökohta.
+# 1. Business/Project goal
 
-Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen vaiheittain. Ensimmäisessä vaiheessa itsepoiminta-aikojen sekä valmiiksi poimittujen mansikoiden määrän ja noutoajankohdan varaaminen.
-(Wysocki 2019, 178-180.)
-
-Ehdottaisin tähän: 
 Mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen tarkoituksena helpottaa ja tehostaa mansikkatilan toiminnan ja työn hallintaa, varauksia ja myyntiä sekä parantaa asiakaskokemusta.
-Perustelu: Wysock s.178: Goal on yksi lause 
+
+Perustelu: Tavoite on määritelty lyhyesti yhdellä lauseella. Se sisältää projektin tarkoituksen ja tavoitellun lopputuloksen korkealla tasolla niin yksinkertaisesti muotoiltuna, että kenen tahansa on helppo ymmärtää se. (Wysocki 178-179.)
+
+
+(Perustelu: Wysock s.178: Goal on yksi lause 
 Wysock s. 179
 A project has one goal. The goal gives purpose and direction to the project. At a very high level, it defines the final deliverable or outcome of the project in clear terms so that everyone understands what is to be accomplished. 
 
-Just like the problem or opportunity statement, the goal statement is short and to the point.
+Just like the problem or opportunity statement, the goal statement is short and to the point.)
 
 
 # 2. (5 p.) Vaatimuksien kartoitus (RBS): Vähintään 5 kappaletta joista väh. 1 ylimmällä tasolla. voitte tehdä sisennettynä listana jonka juurena on ym. "Project goal"tai puuna (2-3 tasoa riittää). Miellekartta-muoto on myös ok. Priorisoikaa vaatimukset. (halutessanne voitte käyttää UML usecase kaavioita keskustelun tukena)
