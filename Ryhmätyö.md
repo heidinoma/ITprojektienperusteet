@@ -90,7 +90,7 @@ b) varaa itselleen paikan poimiakseen marjat itse.
 # 5. (2 p.) RBS perusteella Karkea tietojärjestelmän osien kartoitus. Vähintään nimet ja lyhyet (!) kuvaukset. Millaisista osista project goalin ja siitä johdettujen vaatimusten täyttävä järjestelmä muodostuisi. Käyttäkää myös edellisen tehtäväosan tietomallia. Jos energiaa riittää niin:
 
 
-Liitteenä kaavio (Tietojärjestelmän osiot kaavio.png), jossa kartoitettu sekä verkkokaupan, että mobiilisovelluksen osia.
+Liitteenä UMLetinossa piirretty Structure & Deployment mallilla tehty kaavio, Tietojärjestelmän osiot kaavio.png, jossa kartoitettu sekä verkkokaupan, että mobiilisovelluksen osia.
 
 Tarkoituksena on siis mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen, jonka tarkoituksena on helpottaa ja tehostaa mansikkatilan toiminnan ja työn hallintaa, 
 varauksia ja myyntiä sekä parantaa asiakaskokemusta.
