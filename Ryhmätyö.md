@@ -89,6 +89,18 @@ b) varaa itselleen paikan poimiakseen marjat itse.
 
 # 5. (2 p.) RBS perusteella Karkea tietojärjestelmän osien kartoitus. Vähintään nimet ja lyhyet (!) kuvaukset. Millaisista osista project goalin ja siitä johdettujen vaatimusten täyttävä järjestelmä muodostuisi. Käyttäkää myös edellisen tehtäväosan tietomallia. Jos energiaa riittää niin:
 
+
+Liitteenä kaavio (Tietojärjestelmän osiot kaavio.png), jossa kartoitettu sekä verkkokaupan, että mobiilisovelluksen osia.
+Tarkoituksena on siis mansikkatilan verkkokauppa- ja toiminnanohjausjärjestelmän kehittäminen, jonka tarkoituksena on helpottaa ja tehostaa mansikkatilan toiminnan ja työn hallintaa, 
+varauksia ja myyntiä sekä parantaa asiakaskokemusta.
+Tietojärjestelmässä olisi siis product serverissä mansikan myyntiportaali, varausjärjestelmä itsepoiminnalle, asiakastilien hallintaportaali ja toiminnanohjausjärjestelmä, joka pitää sisällään myös mansikan kypsymisen ennustamisen.
+Myyntiportaalissa myydään tilan poimimaa mansikkaa. Sieltä asiakas voi valita mansikkalajikkeen ja kilomäärän jonka mansikkaa haluaa ostaa ja varata määrän ja maksaa verkkopankkimaksuna ennakkoon.
+Itsepoiminnan varausjärjestelmässä voi varata itselleen mansikanpoiminta ajan tietylle päivälle ja tietylle poimija määrälle, arvioida kilomäärän jonka haluaa poimia ja jos ei ole vapaita paikkoja poimijaksi kyseiselle
+päivälle niin jäädä jonotuspaikalle. Haluamansa mansikkamäärän voi maksaa online.
+Tietojärjestelmä pitää sisällään myös asiakastietojen hallintaportaalin. Sielä voi rekisteröidä asiakastilin, kirjautua sisään, tarkastella ja muokata omia tietojaan, tehdä varauksia ja ostoksia, tarkastella ostohistoriaa, perua ja muokata varauksia. Se myös skaalautuisi asiakasmäärän lisääntyessä ja sitten luotaisiin kanta-asiakasjärjestelmä, jonka kautta saisi asiakaskohtaisia tarjouksia.
+Toiminnanohjausjärjestelmässä voi hallita työntekijämäärää. Sielä voi varata työntekijöitä töihin ja antaa työmääräyksiä eli määrittää aloitusrivi poimimiselle ja osoittaa poimittavan mansikan kilomäärä. Toiminnanohjaukseen on liitetty myös mansikan kypsymisennusteen tekeminen, joka pitää sisällään mansikan kypsymisen ennakoinnin paikallisten sään tilastotietojen ja säätietojen hakemisen järjestelmään, tilan omien satotietojen viennin järjestelmään ja näiden pohjalta kypsymisennusteiden tekemisen ja pilaantuvan sadon määrän ennakoinnin. Toiminnanohjausjärjestelmän avulla voidaan myös laskea vapaana olevan sadon määrää ja sen tiedon vientiä varaus- ja myyntijärjestelmään.
+
+
 https://en.wikipedia.org/wiki/Deployment_diagram
 https://en.wikipedia.org/wiki/Component_diagram
 
