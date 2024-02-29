@@ -116,11 +116,13 @@ https://en.wikipedia.org/wiki/Deployment_diagram
 https://en.wikipedia.org/wiki/Component_diagram
 
 
-
 # 6. (2 p.) Tehtävien kartoitus (WBS) tietojärjestelmän osien ja tarvittavan tiedon (edelliset kohdat) avulla.
-Tässä teette esimerkiksi ensimmäisen iteraation/kierroksen/sprintin alustavan tehtävälistan
-Edellyttää että valitsette jonkun vaatimuksen toteutettavaksi ja suunnitellut tehtävät liittyvät siihen.
+(Tässä teette esimerkiksi ensimmäisen iteraation/kierroksen/sprintin alustavan tehtävälistan
+Edellyttää että valitsette jonkun vaatimuksen toteutettavaksi ja suunnitellut tehtävät liittyvät siihen.)
 
+Iteratiivisessa Agilessa mallissa, iteraatio kulkee Scope, Plan, Launch, Execute ja Close vaiheiden läpi. Meidän projektisuunnitelmamme keskittyy projecting malliin, jossa vielä lisäksi keskitytään enemmän ideoimiseen, suunnittelemiseen, prototyypin tekemiseen, joka esitellään asiakkaalle, asiakas kertoo prototyypistä palautteen ja mahdolliset muutosehdotukset, tehdään muutokset tuotteeseen ja uusi prototyyppi. Tämä sykli jatkuu kunnes, joko asiakkaan rahat tai aika loppuvat tai kun saadaan toimiva ja vaatimuksia vastaava tuote aikaiseksi. 
+
+WBS (Work Breakdown Structure) tarkoituksena on Scopen tavoitteiden ja vaatimusten hajottaminen pieniin aktiviteetteihin. Kun aktiviteetit on hajotettu tarpeeksi pieniin osiin, niistä tulee työtehtäviä. WBS on valmis, kun tehtävät ovat mittavissa sen mukaan missä vaiheessa ne ovat menossa vai ovatko valmiita, aktiviteetti on sidottavissa, aktiviteetista pystytään tekemään toteutettava tuote, työskentelyyn käytettävä aika ja kustannukset ovat mitattavissa, toiminnan kesto on hyväksyttävissä rajoissa ja työtehtävät ovat itsenäisiä. Projecting mallissa, tehtävien kesto on lyhyt, koska oppimista ja kehittymistä tapahtuu koko ajan tuotetta kehitettäessä valmiimmaksi vaatimusten ja muokkausehdotusten mukaan, kohti julkaisua, asiakkaan kanssa yhdessä tiiviisti työskennellen. (Wysocki, s.211-213.)
 
 
 # 7. (5 p.) versionhallinnan haarojen (branch) ja toiminnan suunnittelu. Päätelkää itse miten tämän hetkisen vaatimustilanteenne versionhallinta (branch/alimman tason vaatimus) pitäisi suunnitella. Voitte miettiä tulevaisuutta, ei vain 1. iteraatiota.
