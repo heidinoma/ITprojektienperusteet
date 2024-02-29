@@ -130,27 +130,28 @@ Suunnittelutiimin kasaamisen ja vaatimusten kartoituksen jälkeen alkaa WBS mä�
 
 Ensimmäinen iteraatio eli Scope, Plan, Launch, Execute, (Close tulee vasta kun ollaan lopettamassa projektia) jälkeen sovelluksesta on tehty niin sanottu riisuttu malli, joka voidaan jo ottaa käyttöön mansikkatilalla, mutta jonka jälkeen kehitystyötä edelleen jatketaan ja alkaa toinen iteraatio kierros uusien vaatimuksien ja tehtävien muutoksien kartoituksien kautta ja uusine prototyyppien valmistuksineen. Ensimmäisessä iteraatiossa projektiin osallistuvien henkilöiden työtehtävät voisivat olla vaikka seuraavanlaisia.
 
-Project Manager:
-Päättää WBS:n arkkitehtuurista, laajuudesta ja yksityiskohtien määrästä eli milloin WBS on valmis ja vastaa asetettuja tavoitteita ja niistä on mahdollista saada valmistettua valmis tuote. Vastuussa projektin onnistumisesta, joten siksi on tärkeää suunnittelutiimissä panostaa tehtävien palasteluun ja sitä kautta helpottaa projektin johtamista ja hallitsemista. 
+-	Project Manager:
+Päättää WBS:n arkkitehtuurista, laajuudesta ja yksityiskohtien määrästä eli milloin WBS on valmis ja vastaa asetettuja tavoitteita ja niistä on mahdollista saada valmistettua valmis tuote. Vastuussa projektin onnistumisesta, joten siksi on tärkeää suunnittelutiimissä panostaa tehtävien palasteluun ja sitä kautta helpottaa projektin johtamista ja hallitsemista.
 
-Sponsor:
-Rahoittaa projektin.
+-	Sponsor:
+Rahoittaa projektin. Kommunikoi pääasiassa Project Managerin ja Co-Managerin kanssa.
 
-Client/Asiakas: 
+-	Client/Asiakas:
 Tässä projektisuunnitelmassa asiakkaana on yhden ihmisen johtama mansikkatila. Tavoitteena on, että kun saadaan toimiva tuote aikaiseksi, sen voisi ottaa myös muut mansikkatilat halutessaan käyttöön. Luultavasti mansikkatilalaisena hänellä ei ole hirveästi kokemusta. Hän keskustelee Co-Managerin ja suunnittelutiimin kanssa Scope vaiheessa projektin tavoitteesta ja vaatimuksista, jotka työtä helpottaisivat. Planning vaiheessa suunnitellaan millainen toteutus olisi hänelle helpoin käyttää. Päädytään siis mobiili applikaatioon, jota voi käyttää pellollakin liikkeellä ollessa ja sitten myös verkkosovellukseen, jota voi käyttää tietokoneelta sitten muina aikoina.
 
-Co-Manager:
+-	Co-Manager:
+Auttaa tiimiä saavuttamaan tavoitteet eli huolehtii yhteydenpidosta asiakkaaseen ja ohjaa tiimiä Team Leaderin kanssa, seuraa että tehtävissä pysytään kärryillä ja ei tule toteutuksessa ongelmia. On enemmän hallinnollinen tyyppi ja raportoi myös sponsorille ja project managerille, eli ylöspäin projektin sujumisesta.
 
+-	Business Analyst/Assistant:
+Antaa projektissa neuvoja keskittyen tuotteen kaupallisiin puoliin.
 
-Business Analyst/Assistant:
-Antaa projektissa neuvoja keskittyen tuotteen kaupallisiin asioihin. 
+-	Team Leader: 
+Seniori työntekijä, joka johtaa suunnittelutiimiä Co-Managerin kanssa, mutta Team Leader keskittyy enemmän toteutuspuolen johtamiseen.
+ 
+-	Developer Team:
 
-Team Leader: 
-Johtaa suunnittelutiimiä. 
+-	Designer Team:
 
-Developer Team:
-
-Designer Team:
 
 
 
