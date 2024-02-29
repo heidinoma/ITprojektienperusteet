@@ -135,17 +135,21 @@ Project Manager
 Päättää WBS:n arkkitehtuurista, laajuudesta ja yksityiskohtien määrästä eli milloin WBS on valmis ja vastaa asetettuja tavoitteita ja niistä on mahdollista saada valmistettua valmis tuote. Vastuussa projektin onnistumisesta, joten siksi on tärkeää suunnittelutiimissä panostaa tehtävien palasteluun ja sitä kautta helpottaa projektin johtamista ja hallitsemista. 
 
 Sponsor
+
 Rahoittaa projektin.
 
 Client/Asiakas
+
 Tässä projektisuunnitelmassa asiakkaana on yhden ihmisen johtama mansikkatila. Tavoitteena on, että kun saadaan toimiva tuote aikaiseksi, sen voisi ottaa myös muut mansikkatilat halutessaan käyttöön. Luultavasti mansikkatilalaisena hänellä ei ole hirveästi kokemusta. Hän keskustelee Co-Managerin ja suunnittelutiimin kanssa Scope vaiheessa projektin tavoitteesta ja vaatimuksista, jotka työtä helpottaisivat. Planning vaiheessa suunnitellaan millainen toteutus olisi hänelle helpoin käyttää. Päädytään siis mobiili applikaatioon, jota voi käyttää pellollakin liikkeellä ollessa ja sitten myös verkkosovellukseen, jota voi käyttää tietokoneelta sitten muina aikoina.
 
 Co-Manager
 
 Business Analyst/Assistant
+
 Antaa projektissa neuvoja keskittyen tuotteen kaupallisiin asioihin. 
 
 Team Leader 
+
 Johtaa suunnittelutiimiä. 
 
 Developer Team
