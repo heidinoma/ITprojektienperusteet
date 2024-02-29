@@ -120,9 +120,31 @@ https://en.wikipedia.org/wiki/Component_diagram
 (Tässä teette esimerkiksi ensimmäisen iteraation/kierroksen/sprintin alustavan tehtävälistan
 Edellyttää että valitsette jonkun vaatimuksen toteutettavaksi ja suunnitellut tehtävät liittyvät siihen.)
 
-Iteratiivisessa Agilessa mallissa, iteraatio kulkee Scope, Plan, Launch, Execute ja Close vaiheiden läpi. Meidän projektisuunnitelmamme keskittyy prototyping malliin, jossa vielä lisäksi keskitytään enemmän ideoimiseen, suunnittelemiseen, prototyypin tekemiseen, joka esitellään asiakkaalle, asiakas kertoo prototyypistä palautteen ja mahdolliset muutosehdotukset, tehdään muutokset tuotteeseen ja uusi prototyyppi. Tämä sykli jatkuu kunnes, joko asiakkaan rahat tai aika loppuvat tai kun saadaan toimiva ja vaatimuksia vastaava tuote aikaiseksi. 
+Valitsimme meidän projektisuunnitelmamme malliksi Agile-> Iteratiivinen-> prototyping. Agile, koska vaatimukset ovat kutakuinkin selvillä, mutta ratkaisut eivät. APM (agile project management) on toimiva esim. silloin, kun projektin onnistuminen on kriittistä yrityksen kannalta. Jos myynti-/varausjärjestelmä takkuilee, sato jää myymättä eikä tuloja muodostu. Agilessa myös asiakkaan (mansikkatila) osallistuminen prosessiin on välttämätöntä, toimivaa järjestelmää ei pysty rakentamaan ymmärtämättä syvällisesti toiminnan erilaisia prosesseja ja asiakkaan tarpeita. (Wysocki 2019, 46.) Iteratiivinen malli ja prototyyppien tekeminen ovat perusteltuja, koska järjestelmältä vaaditaan hyvin paljon erilaisia ominaisuuksia. Perusliiketoiminnan saumattoman jatkumisen kannalta on parasta, että sovelluksesta julkaistaan ensin riisuttu malli joillakin perusominaisuuksilla, voidaan testata sitä käytännössä, ja parannella ja lisätä ominaisuuksia kokemusten perusteella. Satokausi ehtii myös mennä ohi, jos sovellusta viilataan liian pitkään, ja käyttöönotto menee seuraavaan kesään. (Mt., 48, 58, 382 – 384.)
 
-WBS (Work Breakdown Structure) tarkoituksena on Scopen tavoitteiden ja vaatimusten hajottaminen pieniin aktiviteetteihin. Kun aktiviteetit on hajotettu tarpeeksi pieniin osiin, niistä tulee työtehtäviä. WBS on valmis, kun tehtävät ovat mittavissa sen mukaan missä vaiheessa ne ovat menossa vai ovatko valmiita, aktiviteetti on sidottavissa, aktiviteetista pystytään tekemään toteutettava tuote, työskentelyyn käytettävä aika ja kustannukset ovat mitattavissa, toiminnan kesto on hyväksyttävissä rajoissa ja työtehtävät ovat itsenäisiä. Prototyping mallissa, tehtävien kesto on lyhyt, koska oppimista ja kehittymistä tapahtuu koko ajan tuotetta kehitettäessä valmiimmaksi vaatimusten ja muokkausehdotusten mukaan, kohti julkaisua, asiakkaan kanssa yhdessä tiiviisti työskennellen. (Wysocki, s.211-213.)
+Iteratiivisessa Agilessa mallissa, iteraatio kulkee Scope, Plan, Launch, Execute ja Close vaiheiden läpi. Meidän prototyping malli keskittyy enemmän ideoimiseen, suunnittelemiseen ja prototyypin tekemiseen, joka esitellään asiakkaalle. Asiakas kertoo prototyypistä palautteen ja mahdolliset muutosehdotukset, tehdään muutokset tuotteeseen ja uusi prototyyppi. Tämä sykli jatkuu kunnes, joko asiakkaan rahat tai aika loppuvat tai kun saadaan toimiva ja vaatimuksia vastaava tuote aikaiseksi. 
+
+WBS (Work Breakdown Structure) tarkoituksena on Scope vaiheessa asetettujen tavoitteiden ja vaatimusten hajottaminen pieniin aktiviteetteihin. Kun aktiviteetit on hajotettu tarpeeksi pieniin osiin, niistä tulee työtehtäviä. WBS on valmis, kun tehtävät ovat mittavissa sen mukaan missä vaiheessa ne ovat menossa vai ovatko valmiita, aktiviteetti on sidottavissa, aktiviteetista pystytään tekemään toteutettava tuote, työskentelyyn käytettävä aika ja kustannukset ovat mitattavissa, toiminnan kesto on hyväksyttävissä rajoissa ja työtehtävät ovat itsenäisiä. Prototyping mallissa, tehtävien kesto on lyhyt, koska oppimista ja kehittymistä tapahtuu koko ajan tuotetta kehitettäessä valmiimmaksi vaatimusten ja muokkausehdotusten mukaan, kohti julkaisua, asiakkaan kanssa yhdessä tiiviisti työskennellen. (Wysocki, 211-213.)
+
+Ensimmäinen iteraatio eli Scope, Plan, Launch, Execute (Close tulee vasta kun ollaan lopettamassa projektia) jälkeen sovelluksesta on tehty niin sanottu riisuttu malli, joka voidaan jo ottaa käyttöön mansikkatilalla, mutta jonka jälkeen kehitystyötä edelleen jatketaan ja alkaa toinen iteraatio kierros vaatimuksien ja muutoksien kartoituksien kautta ja uusine prototyyppien valmistuksineen. Ensimmäisessä iteraatiossa projektiin osallistuvien henkilöiden työtehtävät voisivat olla vaikka seuraavanlaisia.
+
+Project Manager
+
+Sponsor
+
+Client/Asiakas
+Tässä projektisuunnitelmassa asiakkaana on yhden ihmisen johtama mansikkatila. Tavoitteena oli, että kun saadaan toimiva tuote aikaiseksi, sen voisi ottaa myös muut mansikkatilat halutessaan käyttöön. Luultavasti mansikkatilalaisena hänellä ei ole hirveästi kokemusta 
+
+Co-Manager
+
+Business Analyst/Assistant
+
+Team Leader johtaa tiimiä. 
+
+Developer Team
+
+Designer Team
+
 
 
 # 7. (5 p.) versionhallinnan haarojen (branch) ja toiminnan suunnittelu. Päätelkää itse miten tämän hetkisen vaatimustilanteenne versionhallinta (branch/alimman tason vaatimus) pitäisi suunnitella. Voitte miettiä tulevaisuutta, ei vain 1. iteraatiota.
