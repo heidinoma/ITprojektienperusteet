@@ -117,10 +117,8 @@ https://en.wikipedia.org/wiki/Component_diagram
 
 
 # 6. (2 p.) Tehtävien kartoitus (WBS) tietojärjestelmän osien ja tarvittavan tiedon (edelliset kohdat) avulla.
-(Tässä teette esimerkiksi ensimmäisen iteraation/kierroksen/sprintin alustavan tehtävälistan
-Edellyttää että valitsette jonkun vaatimuksen toteutettavaksi ja suunnitellut tehtävät liittyvät siihen.)
 
-Valitsimme meidän projektimme malliksi Agile-> Iteratiivinen-> prototyping. Agile, koska vaatimukset ovat kutakuinkin selvillä, mutta ratkaisut eivät. APM (agile project management) on toimiva esim. silloin, kun projektin onnistuminen on kriittistä yrityksen kannalta. Jos myynti-/varausjärjestelmä takkuilee, sato jää myymättä eikä tuloja muodostu. Agilessa myös asiakkaan (mansikkatila) osallistuminen prosessiin on välttämätöntä, toimivaa järjestelmää ei pysty rakentamaan ymmärtämättä syvällisesti toiminnan erilaisia prosesseja ja asiakkaan tarpeita. (Wysocki 2019, 46.) Iteratiivinen malli ja prototyyppien tekeminen ovat perusteltuja, koska järjestelmältä vaaditaan hyvin paljon erilaisia ominaisuuksia. Perusliiketoiminnan saumattoman jatkumisen kannalta on parasta, että sovelluksesta julkaistaan ensin riisuttu malli joillakin perusominaisuuksilla, voidaan testata sitä käytännössä, ja parannella ja lisätä ominaisuuksia kokemusten perusteella. Satokausi ehtii myös mennä ohi, jos sovellusta viilataan liian pitkään, ja käyttöönotto menee seuraavaan kesään. (Mt., 48, 58, 382 – 384.)
+HUOM! Poistin tästä kappaleen, joka on jo kohdassa 3., luokitus.
 
 Iteratiivisessa Agilessa mallissa, iteraatio kulkee Scope, Plan, Execute, Launch, Execute ja Close vaiheiden läpi. Meidän prototyping malli keskittyy enemmän ideoimiseen, suunnittelemiseen ja prototyypin tekemiseen, joka esitellään asiakkaalle. Asiakas kertoo prototyypistä palautteen ja mahdolliset muutosehdotukset, tehdään muutokset tuotteeseen ja uusi prototyyppi. Tämä sykli jatkuu kunnes, joko asiakkaan rahat tai aika loppuvat tai kun saadaan toimiva ja vaatimuksia vastaava tuote aikaiseksi. 
 
@@ -155,7 +153,17 @@ Seniori työntekijä, joka johtaa suunnittelutiimiä Co-Managerin kanssa, mutta 
  
 -	Developer Team ja Designer Team:
 Yhdessä Team Leaderin kanssa ensin goalin ja vaatimuksien pohjalta WBS:n luominen. Lopulta tuli Planning vaiheen alussa selkeä näkemys millaisen sovelluksen asiakas haluaa ja mitkä tavat palvelisivat häntä parhaiten, jotta hänen työnsä helpottuisi ja toiminta tehostuisi. Launch vaiheessa tiimi teki suunnitelmia tietomallikaaviosta ja mitä osioita tietojärjestelmä tarvitsisi, sopi työn jaosta, kuka ottaa minkäkin osion hoidettavakseen.
-Execute vaiheessa prototyypistä keskityttäisiin tekemään asiakkaan esittämiin perustarpeisiin vastaava tuote eli siinä olisi verkkokaupan luominen, poiminta-aikojen varaus ja peruminen, asiakastilien rekisteröinti mahdollisuus, jotta tilauksien tekeminen helpompaa ja toiminnanohjausjärjestelmään, jotta asiakas voi pitää kirjaa sadosta ja tarvittavista työntekijöistä. Näillä hän pääsee alkuun ja testaamaan sovelluksen toimintaa. Tiimi luovuttaa prototyypin testattavaksi. Seuraavaksi tiimi odottaisi sitten Co-Managerin ja Team Leaderin kautta asiakkaan palautetta sovelluksesta ja seuraava iteraatio alkaisi taas (joko scope jos täytyy vaatimuksia tai tavoitteita projektissa tarkastella uusiksi tai) planning vaiheesta jolloin suunnitellaan muutoksia tehtäväksi tai uusien toiminnallisuuksien lisäämisestä tuotteeseen.  
+Execute vaiheessa prototyypistä keskityttäisiin tekemään asiakkaan esittämiin perustarpeisiin vastaava tuote eli siinä olisi verkkokaupan luominen, poiminta-aikojen varaus ja peruminen, asiakastilien rekisteröinti mahdollisuus, jotta tilauksien tekeminen helpompaa ja toiminnanohjausjärjestelmään, jotta asiakas voi pitää kirjaa sadosta ja tarvittavista työntekijöistä. Näillä hän pääsee alkuun ja testaamaan sovelluksen toimintaa. Tiimi luovuttaa prototyypin testattavaksi. Seuraavaksi tiimi odottaisi sitten Co-Managerin ja Team Leaderin kautta asiakkaan palautetta sovelluksesta ja seuraava iteraatio alkaisi taas (joko scope jos täytyy vaatimuksia tai tavoitteita projektissa tarkastella uusiksi tai) planning vaiheesta jolloin suunnitellaan muutoksia tehtäväksi tai uusien toiminnallisuuksien lisäämisestä tuotteeseen.
+
+## HUOM! WBS-kaavio ensimmäisen iteraation osalta paljon riisutumpi kuin yllä esitetty!
+
+Kaavion kuvausta (löytyy sekä svg että jpg tiedostoista):
+Tässä WBS-mallissa keskitytään kuvaamaan iteraatiota deliverable-näkökulmasta, eikä niinkään iteraation vaiheiden (scoping, planning, launching, executing, (closing)) kautta. Tämä näkökulma määrittelee sen tuotteen, joka iteraation tuloksena syntyy, ja mitä toimia tarvitaan, jota tuote voidaan ottaa käyttöön. Malli toimii sekä ajattelun, suunnittelun, sovellusarkkitehtuurin että raportoinnin työkaluna. (Wysocki 2019, 208.) 
+
+Ensimmäisen iteraation tuotoksena on yksinkertainen, ainoastaan yrityksen nettisivuilla toimiva itsepoiminnan varausjärjestelmä, jossa ei vielä ole mahdollisuutta asiakastilin hallintaan tai esim. varausten muuttamiseen. Poiminta-aika ja arvioitu kilomäärä varataan kalenterista, syötetään tarvittavat tiedot (ks. tietomalli) ja maksetaan maksu. Vapautuvien paikkojen jonottaminen ei tässä vaiheessa vielä ole mahdollista. Ensimmäisessä vaiheessa tilan omistajan/työntekijöiden aikaa vapautuu, kun puhelinta ei tarvitse koko ajan päivystää, eikä päivittäin koota erinäisistä lippulappusista tietoa siitä, kuinka monta poimijaa seuraavana päivänä on tulossa.
+
+WBS-kaaviossa vaaleankeltaiset palkit kuvaavat työpaketteja (Wysocki 2019, 220), jotka sisältävät erilaisia tehtäviä. 
+
 
 
 # 7. (5 p.) versionhallinnan haarojen (branch) ja toiminnan suunnittelu. Päätelkää itse miten tämän hetkisen vaatimustilanteenne versionhallinta (branch/alimman tason vaatimus) pitäisi suunnitella. Voitte miettiä tulevaisuutta, ei vain 1. iteraatiota.
